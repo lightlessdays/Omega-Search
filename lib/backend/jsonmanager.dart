@@ -7,8 +7,7 @@ Future<List> decodeJSONData(String input, String cseId, String apiKey) async {
   List<List> returnList = [];
 
   try {
-    var resultUndecoded = await http.get(Uri.parse(
-        "https://www.googleapis.com/customsearch/v1?key=${apiKey}&cx=${cseId}&q=${input}"));
+
 
     var result = jsonDecode(resultUndecoded.body);
     List resultList = result["items"];
