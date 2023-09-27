@@ -8,7 +8,7 @@ Omega is a privacy-focused, open-source search engine designed to provide users 
 
 To get started with Omega, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/lightlessdays/omega-search-engine.git`
+1. Clone the repository: `git clone https://github.com/lightlessdays/Omega-Search.git`
 2. Install the necessary dependencies: `flutter pub get`
 3. Build and run Omega: `flutter run`
 
