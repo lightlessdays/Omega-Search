@@ -1,6 +1,6 @@
 # Omega Search Engine: An Open Source Privacy Enabled Search Engine
 
-Welcome to the Omega Search Engine GitHub repository!
+Welcome to the Omega Search Engine GitHub repository
 
 Omega is a privacy-focused, open-source search engine designed to provide users with a secure and private search experience. This repository contains the source code and development resources for Omega.
 
