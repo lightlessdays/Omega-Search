@@ -1,3 +1,5 @@
+![image](banner.png)
+
 # Omega Search Engine: An Open Source Privacy Enabled Search Engine
 
 Welcome to the Omega Search Engine GitHub repository
