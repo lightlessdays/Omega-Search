@@ -4,6 +4,11 @@ Welcome to the Omega Search Engine GitHub repository
 
 Omega is a privacy-focused, open-source search engine designed to provide users with a secure and private search experience. This repository contains the source code and development resources for Omega.
 
+## Installing the Application
+
+This application is available - both for Android as well as iOS. The web version of this application will be available soon. 
+To use the Android version, you may install it from the Play Store by [clicking here](https://play.google.com/store/apps/details?id=com.dhruvbadaya.omega&hl=en_IN&gl=US)
+
 ## Getting Started
 
 To get started with Omega, follow these steps:
