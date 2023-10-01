@@ -1,4 +1,4 @@
-![image](banner.png)
+<img src="banner.png" width=100%>
 
 # Omega Search Engine: An Open Source Privacy Enabled Search Engine
 
