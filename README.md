@@ -1,4 +1,4 @@
-<img src="banner_readme.png" width=100%>
+![banner](https://github.com/lightlessdays/Omega-Search/assets/97734029/cee6e5c5-38b4-4880-a578-1a91f5897d00)
 
 # Omega Search Engine: An Open Source Privacy Enabled Search Engine
 
