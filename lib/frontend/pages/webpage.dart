@@ -5,11 +5,11 @@ import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 import '../widgets/appbar.dart';
-//
+
 
 WebViewController? _controller;
 
-
+/**/
 class WebPage extends StatelessWidget { const
 WebPage({Key? key, required this.url, required this.title}) : super(key: key);
 final String url;
