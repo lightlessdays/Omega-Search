@@ -1,5 +1,6 @@
-![banner](https://github.com/lightlessdays/Omega-Search/assets/97734029/cee6e5c5-38b4-4880-a578-1a91f5897d00)
+# Omega: A Privacy-Focused Open Source Search Engine
 
+![banner](https://github.com/lightlessdays/Omega-Search/assets/97734029/cee6e5c5-38b4-4880-a578-1a91f5897d00)
 
 Welcome to the Omega Search Engine Github repository.
 
