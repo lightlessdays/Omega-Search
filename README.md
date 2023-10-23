@@ -1,6 +1,7 @@
 ![banner](https://github.com/lightlessdays/Omega-Search/assets/97734029/cee6e5c5-38b4-4880-a578-1a91f5897d00)
 
-Welcome to the Omega Search Engine GitHub repository
+
+Welcome to the Omega Search Engine Github repository.
 
 Omega is a privacy-focused, open-source search engine designed to provide users with a secure and private search experience. This repository contains the source code and development resources for Omega.
 
