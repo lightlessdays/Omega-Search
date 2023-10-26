@@ -1,35 +1,35 @@
 {
-    "name": "sadhusearcg",
-    "short_name": "sadhusearcg",
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
+    "name": "sadhusearcg", // Name of the web app.
+    "short_name": "sadhusearcg", // Short name of the web app.
+    "start_url": ".", // Start URL of the web app.
+    "display": "standalone", // Display mode of the web app.
+    "background_color": "#0175C2", // Background color of the web app.
+    "theme_color": "#0175C2", // Theme color of the web app.
+    "description": "A new Flutter project.", // Description of the web app.
+    "orientation": "portrait-primary", // Orientation preference for the web app.
+    "prefer_related_applications": false, // Preference for related applications.
     "icons": [
         {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
-            "type": "image/png"
+            "src": "icons/Icon-192.png", // Source of the first icon.
+            "sizes": "192x192", // Size of the first icon.
+            "type": "image/png" // Type of the first icon.
         },
         {
-            "src": "icons/Icon-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
+            "src": "icons/Icon-512.png", // Source of the second icon.
+            "sizes": "512x512", // Size of the second icon.
+            "type": "image/png" // Type of the second icon.
         },
         {
-            "src": "icons/Icon-maskable-192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "maskable"
+            "src": "icons/Icon-maskable-192.png", // Source of the third icon.
+            "sizes": "192x192", // Size of the third icon.
+            "type": "image/png", // Type of the third icon.
+            "purpose": "maskable" // Purpose of the third icon.
         },
         {
-            "src": "icons/Icon-maskable-512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "maskable"
+            "src": "icons/Icon-maskable-512.png", // Source of the fourth icon.
+            "sizes": "512x512", // Size of the fourth icon.
+            "type": "image/png", // Type of the fourth icon.
+            "purpose": "maskable" // Purpose of the fourth icon.
         }
     ]
 }
